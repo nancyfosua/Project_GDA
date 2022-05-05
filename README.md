@@ -1,4 +1,8 @@
 # Project_GDA
+The main aim of this project is to implement Gaussian Discrimimant Analysis from scratch and generalize it.
+
+
+
 This repository presents, our modeling of the Gaussian Discriminant Analysis
 
 ALL The modules are found in this folder
@@ -11,7 +15,7 @@ ALL The modules are found in this folder
 6. Pre-processing.py
 7. preprocess_vectorization.py
 
-##Contributors 
+## Contributors 
 - 	Tchangmena A Nken Allassan
 - 	Nancy Fosua Boakye 
 -  Santatriniaina Avotra Randrianambinina
