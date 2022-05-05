@@ -10,3 +10,12 @@ ALL The modules are found in this folder
 5. GDA.py
 6. Pre-processing.py
 7. preprocess_vectorization.py
+
+##Contributors 
+- 	Tchangmena A Nken Allassan
+- 	Nancy Fosua Boakye 
+-  Santatriniaina Avotra Randrianambinina
+-  Pauline Ornela Megne Choudja
+-  Fenosoa Randrianjatovo
+
+ 
